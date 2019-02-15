@@ -1,0 +1,201 @@
+[{
+		"Name of Employee": "Blake",
+		"Hire Date": "03\/15\/14",
+		"Salary": 50000.0,
+		"Paid leaves Remaining": 10,
+		"Sick Leaves Remaining": 6,
+		"Address of Employee": "4150 Sydney Place Washington DC 20521-4150",
+		"Due Working Hours": 70,
+		"Performance Score": 9,
+		"hobbies": ["cricket", "Reading", "Coffee roasting"],
+		"children": [{
+				"firstName": "Jacob",
+				"age": 6
+			}, 
+			{
+				"firstName": "Mason",
+				"age": 15
+			}
+		]
+	},
+	{
+		"Name of Employee": "Clark",
+		"Hire Date": "05\/12\/14",
+		"Salary": 45000.0,
+		"Paid leaves Remaining": 10,
+		"Sick Leaves Remaining": 3,
+		"Address of Employee": "3290 Hermosillo Place Newyork 35201-0288",
+		"Due Working Hours": 55,
+		"Performance Score": 8,
+		"hobbies": ["Ice skating", "Soapmaking"],
+		"children": [{
+				"firstName": "William",
+				"age": 10
+			},
+			{
+				"firstName": "Jayden",
+				"age": 15
+			}
+		]
+	},
+	{
+		"Name of Employee": "Jones",
+		"Hire Date": "11\/01\/13",
+		"Salary": 70000.0,
+		"Paid leaves Remaining": 3,
+		"Sick Leaves Remaining": 10,
+		"Address of Employee": "799 E DRAGRAM SUITE 5A TUCSON AZ 85705",
+		"Due Working Hours": 78,
+		"Performance Score": 9,
+		"hobbies": ["Painting", "sky diving"],
+		"children": [{
+				"firstName": "Noah",
+				"age": 20
+			},
+			{
+				"firstName": "Micheal",
+				"age": 25
+			}
+		]
+	},
+	{
+		"Name of Employee": "Martin",
+		"Hire Date": "08\/12\/14",
+		"Salary": 48000.0,
+		"Paid leaves Remaining": 7,
+		"Sick Leaves Remaining": 7,
+		"Address of Employee": "300 BOYLSTON AVE E SEATTLE WA 98102",
+		"Due Working Hours": 60,
+		"Performance Score": 6,
+		"hobbies": ["Graphic design", "Singing"],
+		"children": [{
+				"firstName": "Ethan",
+				"age": 17
+			},
+			{
+				"firstName": "Alexander",
+				"age": 19
+			}
+		]
+	},
+	{
+		"Name of Employee": "Allen",
+		"Hire Date": "05\/23\/13",
+		"Salary": 66000.0,
+		"Paid leaves Remaining": 8,
+		"Sick Leaves Remaining": 9,
+		"Address of Employee": "11080 CIRCLE POINT RD STE 180 WESTMINSTER",
+		"Due Working Hours": 40,
+		"Performance Score": 4,
+		"hobbies": ["Creative writing", "Table tennis"],
+		"children": [{
+				"firstName": "Joshua",
+				"age": 5
+			},
+			{
+				"firstName": "Liam",
+				"age": 6
+			}
+		]
+	},
+	{
+		"Name of Employee": "Ward",
+		"Hire Date": "01\/01\/10",
+		"Salary": 50000.0,
+		"Paid leaves Remaining": 5,
+		"Sick Leaves Remaining": 1,
+		"Address of Employee": "112 WEST 17TH ST PO BOX 7  FALLS CITY NE  68355 2640",
+		"Due Working Hours": 70,
+		"Performance Score": 10,
+		"hobbies": ["Motor sports", "Camping"],
+		"children": [{
+				"firstName": "Lucas",
+				"age": 10
+			},
+			{
+				"firstName": "Christian",
+				"age": 15
+			}
+		]
+	},
+	{
+		"Name of Employee": "Ford",
+		"Hire Date": "05\/06\/09",
+		"Salary": 75000.0,
+		"Paid leaves Remaining": 7,
+		"Sick Leaves Remaining": 0,
+		"Address of Employee": "4343 E HIGHWAY 30 KIMBALL NE 69145 2076",
+		"Due Working Hours": 80,
+		"Performance Score": 10,
+		"hobbies": ["jogging", "Sun bathing"],
+		"children": [{
+				"firstName": "Brandon",
+				"age": 10
+			},
+			{
+				"firstName": "Wyatt",
+				"age": 17
+			}
+		]
+	},
+	{
+		"Name of Employee": "Scott",
+		"Hire Date": "12\/25\/10",
+		"Salary": 65000.0,
+		"Paid leaves Remaining": 6,
+		"Sick Leaves Remaining": 4,
+		"Address of Employee": "Minnetonka MN  55305",
+		"Due Working Hours": 85,
+		"Performance Score": 8,
+		"hobbies": ["Coloring", "Jigsaw puzzles"],
+		"children": [{
+				"firstName": "Charles",
+				"age": 20
+			},
+			{
+				"firstName": "Thomas",
+				"age": 25
+			}
+		]
+	},
+	{
+		"Name of Employee": "Adams",
+		"Hire Date": "07\/26\/08",
+		"Salary": 100000.0,
+		"Paid leaves Remaining": 10,
+		"Sick Leaves Remaining": 3,
+		"Address of Employee": "5420 E 108TH ST TULSA OK  74137 7219",
+		"Due Working Hours": 90,
+		"Performance Score": 7,
+		"hobbies": ["Fantasy sports", "Painting"],
+		"children": [{
+				"firstName": "Colton",
+				"age": 8
+			},
+			{
+				"firstName": "Adam",
+				"age": 10
+			}
+		]
+	},
+	{
+		"Name of Employee": "Miller",
+		"Hire Date": "01\/16\/08",
+		"Salary": 80000.0,
+		"Paid leaves Remaining": 2,
+		"Sick Leaves Remaining": 6,
+		"Address of Employee": "ST JACOB IL 62281",
+		"Due Working Hours": 100,
+		"Performance Score": 2,
+		"hobbies": ["Sketching", "Needlepoint"],
+		"children": [{
+				"firstName": "Micah",
+				"age": 25
+			},
+			{
+				"firstName": "Miles",
+				"age": 20
+			}
+		]
+	}
+]
