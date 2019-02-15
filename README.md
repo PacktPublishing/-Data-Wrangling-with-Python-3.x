@@ -1,19 +1,18 @@
 # Data Wrangling with Python 3.x [Video]
 This is the code repository for [Data Wrangling with Python 3.x [Video]](https://www.packtpub.com/application-development/data-wrangling-python-3x-video?utm_source=github&utm_medium=repository&utm_campaign=9781789956597), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-You might be working in an organization, or have your own business, where data is being generated continuously (structured or unstructured) and you are looking to develop your skillset so you can jump into the field of Data Science. This hands-on guide shows non-programmers like you how to process information that's initially too messy or difficult to access.
-In this course, you will gather data, prepare data for analysis, perform simple statistical analyses, create meaningful data visualizations, and more! This course will equip you with the tools and technologies you need to analyze datasets (real-life datasets containing lots of anomalies) using Python so that you can confidently jump into the field and enhance your skillset. The best part of this course is the take-away code templates generated using the real-life dataset. 
-Towards the end of the course, you'll build an intuitive understanding of all the aspects available in Python for Data Wrangling. 
-By the end of this course, you will be comfortable with using R and its associated libraries to solve any problem associated with quantitative finance.
+You might be working in an organization, or have your own business, where data is being generated continuously (structured or unstructured) and you are looking to develop your skillset so you can jump into the field of Data Science. This hands-on guide shows programmers how to process information.
+In this course, you will gather data, prepare data for analysis, perform simple statistical analyses, create meaningful data visualizations, and more! This course will equip us with the tools and technologies, also we need to analyze the datasets using Python so that we can confidently jump into the field and enhance our skill set. The best part of this course is the takeaway code templates generated using the real-life dataset.
+Towards the end of the course, we will build an intuitive understanding of all the aspects available in Python for Data Wrangling.  
+
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
 <LI>Effectively pre-process data (structured or unstructured) before doing any analysis on the dataset.&nbsp; 
-<LI>Retrieving data from different data sources (CSV, JSON, XML, Excel, PDF) and parse them in Python to give them a meaningful shape. 
+<LI>Retrieving data from different data sources (CSV, JSON, Excel, PDF) and parse them in Python to give them a meaningful shape. 
 <LI>Learn about the amazing data storage places in an industry which are being highly optimized. 
 <LI>Perform statistical analysis using in-built Python libraries. 
-<LI>Different techniques used to get meaningful insights out of unstructured data 
 <LI>Hacks, tips, and techniques that will be invaluable throughout your Data Science career. </LI></UL></DIV>
 
 ## Instructions and Navigation
